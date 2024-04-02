@@ -30,10 +30,7 @@ Here's a brief overview of the projects included in this repository:
 - Evaluated KPIs such as minimal risk, maximum return, and maximum Sharpe ratio portfolios, and determined stock allocations for optimal portfolio composition.
 - Technologies: Jupyter Notebook, Python, NumPy, Pandas, Matplotlib.
 
-## Contributing
 
-If you'd like to contribute to this repository by adding your own data analytics projects or improving existing ones, please feel free to fork the repository, make your changes, and submit a pull request. Your contributions are highly appreciated!
+## WARNING
 
-## License
-
-This repository is licensed under the [MIT License](), which means you're free to use, modify, and distribute the code and content as you see fit. However, we kindly request that you provide attribution and include the same license in your derivative works.
+This repository is only free to be refered for educational purpose. 
